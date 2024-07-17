@@ -1,3 +1,5 @@
-# Materiale didattico di ProfessionAI
+# Deep Learning applicato con Pytorch
 
-In questo repository puoi trovae, organizzati per corso, i vari materiali didattici dei nostri master (notebook, dataset etc.).
+Repository Ufficiale del Corso Deep Learning applicato con Pytorch di ProfessionAI
+
+
